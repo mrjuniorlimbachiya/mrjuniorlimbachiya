@@ -1,3 +1,6 @@
+- Hi, I'm Manthan
+- I’m an AI engineer with a specialisation in Python.
+
 # 💫 About Me:
 🔭 I'm currently working on:<br>AI agents, data science projects, and beginner-friendly tech solutions with real-world impact<br><br>👯 I’m looking to collaborate on:<br>AI/ML projects, data analytics dashboards, and innovative student or open-source projects<br><br>🤝 I’m looking for help with:<br>Advanced AI concepts, system design, and improving project scalability<br><br>🌱 I’m currently learning:<br>Artificial Intelligence, Machine Learning, Power BI, and full-stack development<br><br>💬 Ask me about:<br>Python, data analysis, AI agents, Power BI, and beginner-friendly project ideas<br><br>⚡ Fun fact:<br>I love turning complex tech concepts into simple, easy-to-use solutions 🚀
 
@@ -17,9 +20,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mrjuniorlimbachiya&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---
-mrjuniorlimbachiya/mrjuniorlimbachiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
